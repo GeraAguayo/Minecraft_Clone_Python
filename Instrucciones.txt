@@ -1,0 +1,33 @@
+							INSTRUCCIONES PARA 
+							  LA INSTALACION
+---------------------------------------------------------------------------------------------------------------------------
+1-Es necesario tener instalado python en el dispositivo, en mi caso yo estuve trabajando con la version 3.9
+
+2-Para correr el juego se puede hacer de dos maneras distintas; desde un IDE (Visual Studio Code, PyCharm, etc)
+en el cual solo lo tienes que ejecutar desde el mismo IDE.
+
+En caso de querer ejecturalo desde la terminal(En mi caso es desde Windows 10), es necesario introducir el siguente comando
+(Recomiendo tener la carpeta en el escritorio):
+
+                                        cd Desktop/Minecraft
+
+3- Ahora ya estas dentro de la carpeta del juego, por lo que solo necesitas introducir el siguiente comando:
+
+                                        python Minecraft_ParaItzel.py
+-----------------------------------------------------------------------------------------------------------------------------
+							INSTRUCCIONES PARA EL JUEGO
+-Te mueves con las teclas WASD. W es la flecha arriba, S es la flecha abajo, A es la flecha izquierda y D es la flecha
+derecha.
+
+-Para poner bloques es con click izquierdo pones bloques y con click derecho quitas bloques
+
+-Mueves la vista con el mouse (como en un shooter)
+
+-Para poner un bloque de tierra con pasto presiona 1 y despues ponlo
+-Para poner un bloque de piedra presiona 2 y despues ponlo
+-Para poner un bloque de madera presiona 3 y despues ponlo
+-Para poner un bloque de tierra presiona 4 y despues ponlo 
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
