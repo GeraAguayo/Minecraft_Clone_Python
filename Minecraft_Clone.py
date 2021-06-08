@@ -2,8 +2,8 @@
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 
-
 app = Ursina()
+#Este al final
 song = Audio('recursos/song.mp3', loop = True, autoplay = True)
 
 #Texturas
